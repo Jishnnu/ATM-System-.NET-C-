@@ -1,0 +1,19 @@
+C:\Users\jishn\source\repos\Automated Teller Machine\bin\Debug\Automated Teller Machine.exe.config
+C:\Users\jishn\source\repos\Automated Teller Machine\bin\Debug\Automated Teller Machine.exe
+C:\Users\jishn\source\repos\Automated Teller Machine\bin\Debug\Automated Teller Machine.pdb
+C:\Users\jishn\source\repos\Automated Teller Machine\obj\Debug\Automated Teller Machine.csproj.AssemblyReference.cache
+C:\Users\jishn\source\repos\Automated Teller Machine\obj\Debug\Automated Teller Machine.csproj.SuggestedBindingRedirects.cache
+C:\Users\jishn\source\repos\Automated Teller Machine\obj\Debug\Automated_Teller_Machine.Form1.resources
+C:\Users\jishn\source\repos\Automated Teller Machine\obj\Debug\Automated_Teller_Machine.Properties.Resources.resources
+C:\Users\jishn\source\repos\Automated Teller Machine\obj\Debug\Automated Teller Machine.csproj.GenerateResource.cache
+C:\Users\jishn\source\repos\Automated Teller Machine\obj\Debug\Automated Teller Machine.csproj.CoreCompileInputs.cache
+C:\Users\jishn\source\repos\Automated Teller Machine\obj\Debug\Automated Teller Machine.exe
+C:\Users\jishn\source\repos\Automated Teller Machine\obj\Debug\Automated Teller Machine.pdb
+C:\Users\jishn\source\repos\Automated Teller Machine\obj\Debug\Automated_Teller_Machine.Login.resources
+C:\Users\jishn\source\repos\Automated Teller Machine\obj\Debug\Automated_Teller_Machine.Account.resources
+C:\Users\jishn\source\repos\Automated Teller Machine\obj\Debug\Automated_Teller_Machine.Balance.resources
+C:\Users\jishn\source\repos\Automated Teller Machine\obj\Debug\Automated_Teller_Machine.ChangePin.resources
+C:\Users\jishn\source\repos\Automated Teller Machine\obj\Debug\Automated_Teller_Machine.Deposit.resources
+C:\Users\jishn\source\repos\Automated Teller Machine\obj\Debug\Automated_Teller_Machine.FastCash.resources
+C:\Users\jishn\source\repos\Automated Teller Machine\obj\Debug\Automated_Teller_Machine.Home.resources
+C:\Users\jishn\source\repos\Automated Teller Machine\obj\Debug\Automated_Teller_Machine.Withdraw.resources

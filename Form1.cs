@@ -24,7 +24,7 @@ namespace Automated_Teller_Machine
             int nWidthEllipse, // width of ellipse
             int nHeightEllipse // height of ellipse
         );
-        public Form1()
+        public Form1()//Constructor
         {
             InitializeComponent();
             this.FormBorderStyle = FormBorderStyle.None;

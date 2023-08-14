@@ -12,9 +12,9 @@ namespace Automated_Teller_Machine
 {
     public partial class Home : Form
     {
-        public Home()
+        public Home()//This is constructor
         {
-            InitializeComponent();
+            InitializeComponent();  
             this.FormBorderStyle = FormBorderStyle.None;
             Region = System.Drawing.Region.FromHrgn(Form1.CreateRoundRectRgn(0, 0, Width, Height, 20, 20));
         }
@@ -22,6 +22,7 @@ namespace Automated_Teller_Machine
         public static String accno;
         private void signup_Click(object sender, EventArgs e)
         {
+         
             Login l = new Login();
             l.Show();
             this.Hide();

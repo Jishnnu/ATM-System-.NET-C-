@@ -13,7 +13,7 @@ namespace Automated_Teller_Machine
 {
     public partial class Balance : Form
     {
-        public Balance()
+        public Balance()//This is constructor
         {
             InitializeComponent();
             this.FormBorderStyle = FormBorderStyle.None;

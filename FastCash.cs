@@ -13,7 +13,7 @@ namespace Automated_Teller_Machine
 {
     public partial class FastCash : Form
     {
-        public FastCash()
+        public FastCash()//This is constructor
         {
             InitializeComponent();
             this.FormBorderStyle = FormBorderStyle.None;
@@ -22,6 +22,7 @@ namespace Automated_Teller_Machine
         SqlConnection conn = new SqlConnection(@"Data Source=HP-ENVY\SQLEXPRESS;Initial Catalog=ATM Accounts Database;Integrated Security=True");
         String accno = Login.accno;
         int oldbal, newbal;
+        
         private void getBalance()
         {
             try

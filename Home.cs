@@ -14,7 +14,7 @@ namespace Automated_Teller_Machine
     {
         public Home()//This is constructor
         {
-            InitializeComponent();
+            InitializeComponent();  
             this.FormBorderStyle = FormBorderStyle.None;
             Region = System.Drawing.Region.FromHrgn(Form1.CreateRoundRectRgn(0, 0, Width, Height, 20, 20));
         }

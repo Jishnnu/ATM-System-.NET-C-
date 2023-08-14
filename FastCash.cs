@@ -13,7 +13,7 @@ namespace Automated_Teller_Machine
 {
     public partial class FastCash : Form
     {
-        public FastCash()
+        public FastCash()//This is constructor
         {
             InitializeComponent();
             this.FormBorderStyle = FormBorderStyle.None;

@@ -13,7 +13,7 @@ namespace Automated_Teller_Machine
 {
     public partial class Login : Form
     {
-        public Login()
+        public Login()//This is constructor
         {
             InitializeComponent();
             this.FormBorderStyle = FormBorderStyle.None;

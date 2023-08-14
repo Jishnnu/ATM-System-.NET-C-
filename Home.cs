@@ -12,7 +12,7 @@ namespace Automated_Teller_Machine
 {
     public partial class Home : Form
     {
-        public Home()
+        public Home()//This is constructor
         {
             InitializeComponent();
             this.FormBorderStyle = FormBorderStyle.None;

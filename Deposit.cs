@@ -13,7 +13,7 @@ namespace Automated_Teller_Machine
 {
     public partial class Deposit : Form
     {
-        public Deposit()
+        public Deposit()//This is constructor
         {
             InitializeComponent();
             this.FormBorderStyle = FormBorderStyle.None;

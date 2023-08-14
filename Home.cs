@@ -22,6 +22,7 @@ namespace Automated_Teller_Machine
         public static String accno;
         private void signup_Click(object sender, EventArgs e)
         {
+         
             Login l = new Login();
             l.Show();
             this.Hide();
